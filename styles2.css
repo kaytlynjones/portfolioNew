@@ -1,0 +1,48 @@
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+#store-link {
+    margin-right: auto;
+}
+#profile-pic {
+    width: 75px;
+    height: auto;
+    margin: 0px 10px;
+ }
+
+#index {
+    align-items: flex-end;
+}
+
+#top {
+    margin-top: 110px;
+    text-align: center;
+}
+
+.title {
+
+    font-size: 30px;
+}
+
+#image1 {
+    margin-top: 20px;
+    text-align: center;
+    size: 40%
+}
+
+#blurb {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.blurbs {
+    font-size: 20px;
+}
+
+#button {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

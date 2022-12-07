@@ -1,0 +1,15 @@
+body {
+    font-family: "Poppins", sans-serif;;
+}
+#store-link {
+    margin-right: auto;
+}
+#profile-pic {
+    width: 75px;
+    height: auto;
+    margin: 0px 10px;
+ }
+#talk {
+    margin-top: 120pm;
+    text-align: center;
+}
